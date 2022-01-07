@@ -2,9 +2,9 @@
 input_file = open(r".\Timestamps.txt", "r")
 
 # Create if not exists, clear and then write
-output_file = open(r".\Test.pbf", "a+")
+output_file = open(r".\Timestamps.pbf", "a+")
 output_file.close() 
-output_file = open(r".\Test.pbf", "r+")
+output_file = open(r".\Timestamps.pbf", "r+")
 
 # Write to file
 full_line = []
