@@ -1,6 +1,6 @@
-00:00:00 - Bookmark 1
-00:06:20 - Bookmark 2
-00:23:14 - Bookmark 3
-00:29:58 - Bookmark 4
-00:35:23 - Bookmark 5
-00:36:39 - Bookmark 6
+0:00 - This is a bookmark
+3:15 - This format works
+06:20 - This too
+23:14 - This is another bookmark
+1:4:55 - This has hour
+01:08:06 - This can also be written
