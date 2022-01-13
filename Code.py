@@ -1,10 +1,8 @@
 # Load Input file
 input_file = open(r".\Timestamps.txt", "r")
 
-#Create if not exists, clear and then write
-output_file = open(r".\Timestamps.pbf", "a+")
-output_file.close() 
-output_file = open(r".\Timestamps.pbf", "r+")
+# Load Output file
+output_file = open(r".\Timestamps.pbf", 'w')
 
 # Initialize
 full_line = []
